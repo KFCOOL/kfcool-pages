@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kfcool-pages.pages.dev/sitemap.xml
